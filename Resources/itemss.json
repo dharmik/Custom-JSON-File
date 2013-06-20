@@ -1,0 +1,45 @@
+{
+	"men": [
+		{
+			"longitude": "72.9300",
+			"latitude": "20.6300",
+			"name": "valsad",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "72.6167",
+			"latitude": "23.0333",
+			"name": "ahmedabad",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "77.3200",
+			"latitude": "28.5700",
+			"name": "noida",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "80.2740",
+			"latitude": "13.0810",
+			"name": "channai",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "101.0168",
+			"latitude": "13.9202",
+			"name": "thailand",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "0.1062",
+			"latitude": "51.5171",
+			"name": "london",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "18.2812",
+			"latitude": "9.1021",
+			"name": "africa",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}, {
+			"longitude": "72.9612",
+			"latitude": "19.1828",
+			"name": "Thane",
+			"videoLink": "https://dl.dropboxusercontent.com/u/72782351/video-2012-09-20-12-00-34.mp4"
+		}
+	]
+}
